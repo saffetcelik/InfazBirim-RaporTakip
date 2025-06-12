@@ -291,15 +291,6 @@ veriler/
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-### İnfaz Birim Ana Rapor Takip Ekranı
-![İnfaz Ana Ekran](screenshots/infaz-main-screen.png)
-*İnfaz birim rapor takip sistemi ana ekranı - rapor dosyaları renk kodlu durum gösterimi ile*
-
-
----
-
 ## 🏆 Öne Çıkan Özellikler
 
 ### 🎨 Modern Arayüz Tasarımı
@@ -508,22 +499,6 @@ class NotesWidget(QWidget):
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
 
-```
-MIT License
-
-Copyright (c) 2024 A.K.K - Not - Oto Tuş Sistemi
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
 ---
 
 ## 📞 İletişim ve Destek
@@ -532,19 +507,6 @@ copies or substantial portions of the Software.
 - **Geliştirici**: Saffet Çelik
 - **GitHub**: [github.com/saffetcelik](https://github.com/saffetcelik)
 
-### 🆘 Destek Kanalları:
-- 🐛 **Bug Raporu**: [GitHub Issues](https://github.com/saffetcelik/InfazBirim-RaporTakip/issues)
-- 💡 **Özellik İsteği**: [GitHub Discussions](https://github.com/saffetcelik/InfazBirim-RaporTakip/discussions)
-- 📖 **Dokümantasyon**: [Wiki Sayfaları](https://github.com/saffetcelik/InfazBirim-RaporTakip/wiki)
-
----
-
-## 📊 Proje İstatistikleri
-
-![GitHub stars](https://img.shields.io/github/stars/saffetcelik/InfazBirim-RaporTakip?style=social)
-![GitHub forks](https://img.shields.io/github/forks/saffetcelik/InfazBirim-RaporTakip?style=social)
-![GitHub issues](https://img.shields.io/github/issues/saffetcelik/InfazBirim-RaporTakip)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/saffetcelik/InfazBirim-RaporTakip)
 
 ### Kod Metrikleri:
 - **Toplam Satır**: ~1500 satır Python kodu
@@ -554,61 +516,8 @@ copies or substantial portions of the Software.
 
 ---
 
-## 🏅 Ödüller ve Tanınma
-
-- 🥇 **En İyi İnfaz Yazılımı 2024** - Türkiye Adalet Teknolojileri Yarışması
-- 🏆 **Açık Kaynak Proje Ödülü** - Python Türkiye Topluluğu
-- ⭐ **Kullanıcı Tercihi Ödülü** - İnfaz Personeli Anketi
-
----
-
-## 🎉 Teşekkürler
-
-Bu projeyi mümkün kılan herkese teşekkürler:
-
-### 🛠️ Teknoloji Ortakları:
-- **PyQt6 Geliştirici Ekibi** - Mükemmel GUI framework'ü için
-- **Python Software Foundation** - Python dilinin geliştirilmesi için
-- **GitHub** - Kod barındırma ve işbirliği platformu için
-
-### 👥 Topluluk Katkıları:
-- **Beta Testerlar**: Erken geri bildirimler için
-- **Çevirmenler**: Çoklu dil desteği için
-- **Dokümantasyon Yazarları**: Kapsamlı dokümantasyon için
-- **Bug Reporters**: Kalite iyileştirmeleri için
-
-### 🏛️ Kurumsal Destekçiler:
-- **Adalet Bakanlığı Bilgi İşlem Dairesi**
-- **Türkiye Adalet Akademisi**
-- **İnfaz Koruma Memurları Derneği**
-
----
-
-## 🔗 Faydalı Bağlantılar
-
-### 📚 Dokümantasyon:
-- [Kullanıcı Kılavuzu](docs/user-guide.md)
-- [Geliştirici Dokümantasyonu](docs/developer-guide.md)
-- [API Referansı](docs/api-reference.md)
-- [Sık Sorulan Sorular](docs/faq.md)
-
-### 🎓 Eğitim Materyalleri:
-- [Video Eğitimler](https://youtube.com/playlist?list=akk-sistem-egitim)
-- [Webinar Kayıtları](docs/webinars.md)
-- [Örnek Kullanım Senaryoları](docs/use-cases.md)
-
-### 🔧 Geliştirici Araçları:
-- [Kod Standartları](docs/coding-standards.md)
-- [Test Kılavuzu](docs/testing-guide.md)
-- [Deployment Rehberi](docs/deployment.md)
-
----
-
 <div align="center">
 
-## 🌟 Projeyi Destekleyin
-
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/saffetcelik)
 
 **⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
 
