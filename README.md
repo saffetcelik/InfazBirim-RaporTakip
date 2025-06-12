@@ -19,6 +19,11 @@
 
 **İnfaz Birim - Rapor Takip Sistemi**, Adliye İnfaz Birimlerinde akıl hastalıkları raporlarının takibi ve yönetimi için geliştirilmiş özel bir masaüstü uygulamasıdır. İnfaz birimlerinde çalışan personelin akıl hastalıkları raporları ve ilgili dosyalarla günlük iş akışlarını optimize etmek amacıyla tasarlanmıştır. PyQt6 tabanlı modern arayüzü ile rapor takibi, tebligat yönetimi, not alma ve otomatik kısayol sistemi gibi temel ihtiyaçları tek bir platformda birleştirir.
 
+
+## 📸 Ekran Görüntüleri
+
+![Uygulama Demo](onizleme.gif)
+
 ### ✨ Temel Özellikler
 
 - 🧠 **Akıl Hastalıkları Rapor Takip Sistemi**: İnfaz birimlerinde akıl hastalıkları raporlarının detaylı takibi ve yönetimi
