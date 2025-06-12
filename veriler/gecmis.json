@@ -1,0 +1,92 @@
+{
+  "434": [
+    {
+      "tarih": "13.06.2025 00:59:39",
+      "islem": "Yeni dosya eklendi",
+      "detaylar": {
+        "esasNo": "434",
+        "raporBaslangicTarihi": "13.06.2025",
+        "sonRaporTarihi": "13.06.2025",
+        "raporYil": 5,
+        "raporAy": 3,
+        "notlar": "",
+        "kalanGun": 92,
+        "yenidenRaporTarihi": "13.09.2025",
+        "gecikenSure": 0,
+        "raporBitisTarihi": "13.06.2030",
+        "durum": "Normal"
+      }
+    }
+  ],
+  "5464/6": [
+    {
+      "tarih": "13.06.2025 00:59:51",
+      "islem": "Yeni dosya eklendi",
+      "detaylar": {
+        "esasNo": "5464/6",
+        "raporBaslangicTarihi": "03.04.2025",
+        "sonRaporTarihi": "13.06.2025",
+        "raporYil": 5,
+        "raporAy": 3,
+        "notlar": "",
+        "kalanGun": 92,
+        "yenidenRaporTarihi": "13.09.2025",
+        "gecikenSure": 0,
+        "raporBitisTarihi": "03.04.2030",
+        "durum": "Normal"
+      }
+    }
+  ],
+  "3444/": [
+    {
+      "tarih": "13.06.2025 01:00:09",
+      "islem": "Yeni dosya eklendi",
+      "detaylar": {
+        "esasNo": "3444/",
+        "raporBaslangicTarihi": "03.06.2025",
+        "sonRaporTarihi": "01.05.2025",
+        "raporYil": 5,
+        "raporAy": 3,
+        "notlar": "",
+        "kalanGun": 49,
+        "yenidenRaporTarihi": "01.08.2025",
+        "gecikenSure": 0,
+        "raporBitisTarihi": "03.06.2030",
+        "durum": "Normal"
+      }
+    }
+  ],
+  "4533/": [
+    {
+      "tarih": "13.06.2025 01:00:31",
+      "islem": "Yeni dosya eklendi",
+      "detaylar": {
+        "esasNo": "4533/",
+        "raporBaslangicTarihi": "13.06.2025",
+        "sonRaporTarihi": "25.02.2025",
+        "raporYil": 5,
+        "raporAy": 3,
+        "notlar": "",
+        "kalanGun": -19,
+        "yenidenRaporTarihi": "25.05.2025",
+        "gecikenSure": 19,
+        "raporBitisTarihi": "13.06.2030",
+        "durum": "S\u00fcresi Dolmu\u015f"
+      }
+    }
+  ],
+  "5344/": [
+    {
+      "tarih": "13.06.2025 01:00:44",
+      "islem": "Yeni dosya eklendi",
+      "detaylar": {
+        "esasNo": "5344/",
+        "raporBaslangicTarihi": "01.07.2025",
+        "sonRaporTarihi": "13.06.2025",
+        "raporYil": 5,
+        "raporAy": 3,
+        "notlar": ""
+      }
+    }
+  ]
+}

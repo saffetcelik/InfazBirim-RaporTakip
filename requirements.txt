@@ -1,0 +1,5 @@
+PyQt6>=6.0.0
+python-dateutil>=2.8.0
+pyautogui>=0.9.50
+pywin32>=300
+keyboard>=0.13.5
